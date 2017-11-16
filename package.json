@@ -1,0 +1,22 @@
+{
+  "name": "certbot-node",
+  "version": "1.0.0",
+  "description": "Helps with the .well-known folder",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GroovyTurtle/certbot-node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GroovyTurtle/certbot-node/issues"
+  },
+  "homepage": "https://github.com/GroovyTurtle/certbot-node#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
